@@ -1,4 +1,4 @@
-##Hagamos una pequeña prueba para el README.md
+#Hagamos una pequeña prueba para el README.md
 Me gustó mucho como explicó el curso de Git y GitHub el gran profesor @freddier
 
  > Este profesor es el CEO de la plataforma, muy bueno explicando, la dinámica es excelente.
